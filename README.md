@@ -56,4 +56,5 @@ Nesse sistema, teremos a opção de criar uma conta corrente ou uma conta poupan
 
 ## Resultado do projeto
 ### Menu Principal 
-![image](https://github.com/Bianca-Leal/vnw-desafio-conta-nubank/assets/106701388/b84c74f2-01d4-4bec-8685-a3031a7e8872)
+![image](https://github.com/Bianca-Leal/vnw-desafio-nubank/assets/106701388/8afdade2-9803-4a8a-a32b-aef0b5c47fd0)
+
